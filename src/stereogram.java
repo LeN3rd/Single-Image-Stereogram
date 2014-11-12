@@ -10,6 +10,12 @@ import javax.imageio.ImageIO;
 
 
 
+/* made by LeN3rd. 
+ * quickly written Spagetthi code
+ * Input Image needs to be the same size, as the output file.
+ * TODO:
+ * NOT hardcoded image paths. Im just too lazy
+ */
 
 public class stereogram{
 	
